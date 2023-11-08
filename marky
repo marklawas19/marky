@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+ <title>Lyrics</title>
+</head>
+<body>
+ <header>
+    <h1>Song Lyrics</h1>
+ </header>
+
+ <nav>
+    <ul>
+      <li><a href="#verse1">Verse 1</a></li>
+      <li><a href="#verse2">Verse 2</a></li>
+      <li><a href="#chorus">Chorus</a></li>
+      <li><a href="#verse3">Verse 3</a></li>
+      <li><a href="#verse4">Verse 4</a></li>
+      <li><a href="#chorus">Chorus</a></li>
+      <li><a href="#bridge">Bridge</a></li>
+      <li><a href="#chorus">Chorus</a></li>
+      <li><a href="#outro">Outro</a></li>
+    </ul>
+ </nav>
+
+ <main>
+    <section id="verse1">
+      <p>Verse 1 lyrics</p>
+    </section>
+
+    <section id="verse2">
+      <p>Verse 2 lyrics</p>
+    </section>
+
+    <!-- Repeat the structure for the remaining verses, choruses, bridge, and outro -->
+
+ </main>
+</body>
+</html>
